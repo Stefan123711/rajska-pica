@@ -28,7 +28,7 @@
     }
 }
 .strelica i{
-    color:white;
+    color:#ffffff;
 }
 body{
     background-color: #E1D9BE;
@@ -44,7 +44,7 @@ ul li{
 ul li a{
     text-decoration: none;
     list-style-type: none;
-    color: black;
+    color: #000000;
     padding:15px;
     transition-duration: 0.2s;
 }
@@ -202,7 +202,7 @@ i{
 #galerija-main h2{
     text-align: center;
     font-size:40px;
-    color:black;
+    color:#000000;
     padding-top:40px;
 }
 #dugme-galerija{
@@ -238,7 +238,7 @@ i{
     background-color: #4f4e4d;
 }
 .footer-info{
-    color:white;
+    color:#ffffff;
     width:300px;
     text-align: center;
     align-items: center;
@@ -247,7 +247,7 @@ i{
     padding-bottom:20px;
 }
 .ikonice2 a{
-    color:white;
+    color:#ffffff;
     font-size:35px;
     text-decoration: none;
     transition-duration: 0.2s;
@@ -267,12 +267,12 @@ i{
 .dugme:hover{
     transform: scale(1.05);
     background-color: #F5E2C2;
-    color:black;
+    color:#000000;
     font-weight: bold;
 }
 #linkovi a{
     font-size:20px;
-    color:white;
+    color:#ffffff;
     text-decoration: none;
     transition-duration: 0.2s;
 }
@@ -296,7 +296,7 @@ i{
 .text-wrapper{
     width: 70%;
     font-size:40px;
-    color:white;
+    color:#ffffff;
 }
 .text-wrapper h3{
     font-size:30px;
@@ -308,7 +308,7 @@ i{
 }
 #meni{
     text-align: center;
-    color:black;
+    color:#000000;
 }
 #meni h2{
     text-transform: uppercase;
@@ -340,15 +340,15 @@ i{
     margin:10px 0;
 }
 .pica span{
-    color:black;
+    color:#000000;
     font-weight: 600;
     font-size:15px;
 }
 .pica:hover p{
-    color:red;
+    color:#FF0000;
 }
 .pica:hover span{
-    color:green;
+    color:#00ff00;
 }
 .pica h3,p,span{
     transition-duration: 0.4s;
