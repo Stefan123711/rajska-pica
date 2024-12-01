@@ -348,7 +348,7 @@ i{
     color:#FF0000;
 }
 .pica:hover span{
-    color:#00ff00;
+    color:#1f781a;
 }
 .pica h3,p,span{
     transition-duration: 0.4s;
@@ -503,6 +503,8 @@ input::placeholder, textarea::placeholder {
     flex-direction: column;
     align-items: center;
     font-size:20px;
+    line-height: 1.1;
+    letter-spacing: 0.05em
 }
 #autor-slika{
     display: flex;
